@@ -1,0 +1,3 @@
+[
+{"name":"flare.negative.chemistry","size":10,"semantic":"negative","closeness":"0.2635","imports":[]},
+{"name":"flare.neutral.acid","size":"root","semantic":"neutral","closeness":"0.2087","imports":["flare.negative.chemistry"]}]
