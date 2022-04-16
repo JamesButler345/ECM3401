@@ -7,10 +7,10 @@ The bulk of this code base is WordPress fomalities. We implemented the visualise
 
 FOR MARKERS: Please see details of the locations of the files mentioned in the report.
 
-Python scripts are located within the 'py' directory: \var\www\onlinecharts.live\py
+Python scripts are located within the 'py' directory: \www\onlinecharts.live\py
 
-The edge-chart.php file is located here: \var\www\onlinecharts.live\wp-content\plugins\edge-chart
+The edge-chart.php file is located here: \www\onlinecharts.live\wp-content\plugins\edge-chart
 
-The scripts.php file is located here: \var\www\onlinecharts.live\wp-content\plugins\edge-chart\includes
+The scripts.php file is located here: \www\onlinecharts.live\wp-content\plugins\edge-chart\includes
 
-The JS files are located here: \var\www\onlinecharts.live\wp-content\plugins\edge-chart\includes\js
+The JS files are located here: \www\onlinecharts.live\wp-content\plugins\edge-chart\includes\js
